@@ -4,8 +4,8 @@
 <name>panda_arm_description</name>
   <version>0.0.0</version>
 <description>The panda_arm_description package</description>
-  <maintainer email="todo@todo.com">author</maintainer>
-  <license>TODO: License declaration</license>
+  <maintainer email="swang2792@gmail.com">tree</maintainer>
+  <license>Apache-2.0</license>
 
   <depend>xacro</depend>
   <depend>rviz2</depend>

@@ -19,10 +19,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='author',
-    maintainer_email='todo@todo.com',
-    description='The ' + package_name + ' package',
-    license='TODO: License declaration',
+    maintainer='tree',
+    maintainer_email='swang2792@gmail.com',
+    description='TODO: Package description',
+    license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
